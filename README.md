@@ -1,3 +1,10 @@
+## 🌐 Frontend Playground – Mini UI Projects
+
+- A collection of beginner to intermediate-level frontend micro projects built using HTML, CSS, and JavaScript. <br>
+- Responsive Landing Pages for UI Exploration, Design Inspiration & Frontend Practice.
+
+## 🚀 Live Demos 
+
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Calculator <br>
 ---
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Coming_Soon_Page <br>
