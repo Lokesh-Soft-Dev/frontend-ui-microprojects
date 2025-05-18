@@ -5,13 +5,13 @@
 
 ## 🚀 Live Demos 
 
-### https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Calculator <br>
+### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Calculator <br>
 ---
-### https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Coming_Soon_Page <br>
+### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Coming_Soon_Page <br>
 ---
-### https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Currency_Converter <br>
+### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Currency_Converter <br>
 ---
-### https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Digital_Clock <br>
+### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Digital_Clock <br>
 ---
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Event_or_Conference_UI <br>
 ---
