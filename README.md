@@ -36,6 +36,13 @@
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Login_Pages/Awesome_Login <br>
 ---
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Login_Pages/Simple <br>
+
+---
+
+## 🧑‍💻 Author
+## LOKESH K
+
+---
 ---
 ### Live Demo : https://lokesh-soft-dev.github.io/frontend-ui-microprojects/Netflix_logo <br>
 ---
