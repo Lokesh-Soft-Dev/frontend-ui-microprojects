@@ -1,6 +1,7 @@
 ## 🌐 Frontend Playground – Mini UI Projects
 
 - A collection of beginner to intermediate-level frontend micro projects built using HTML, CSS, and JavaScript. <br>
+
 - Responsive Landing Pages for UI Exploration, Design Inspiration & Frontend Practice.
 
 ## 🚀 Live Demos 
